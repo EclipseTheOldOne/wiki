@@ -28,6 +28,7 @@ Mindustry shading are based on sprite types, here's an example
 
 [how do i put picture (named shading.png) here]
 
+Each type of shading have different ways to shaping, decaling, ... 
 <details><summary>Block Spriting</summary>
 <p>
 
