@@ -13,7 +13,7 @@ After that, make your first sprite!
 
 ### Pallete
 To start making sprite, you'll need pallete for it
- - You'll need Mindustry palette. If you don't have it, get it [Here](https://github.com/MindustryGame/wiki/blob/master/docs/images/modding/spriting/mindustry-pallete.png)
+ - You'll need Mindustry palette. If you don't have it, get it [Here] //How do i add a link
  - If you want to make your own pallete, then you'll need to follow these rules:
     - if your sprite isn't special, use only 3 color.
     - balance colors theme, saturation and brightness between colors.
@@ -23,7 +23,10 @@ most block have 1 base palette and 1 or more decal pallete.
 
 ### Shading
 
-<img src="wiki/docs/images/modding/spriting/examples/shading.png">
+Mindustry shading are based on sprite types, here's an example
+(1.Unit, 2.Block, 3.Turret)
+
+[how do i put picture (named shading.png) here]
 
 <details><summary>Block Spriting</summary>
 <p>
