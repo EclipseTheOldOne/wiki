@@ -23,7 +23,7 @@ most block have 1 base palette and 1 or more decal pallete.
 
 ### Shading
 
-![cope](https://github.com/MindustryGame/wiki/blob/master/docs/images/favicon.png)
+<img src="/wiki/images/spriting/examples/shading.png">
 
 <details><summary>Block Spriting</summary>
 <p>
