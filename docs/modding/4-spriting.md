@@ -23,7 +23,7 @@ most block have 1 base palette and 1 or more decal pallete.
 
 ### Shading
 
-<img src="/wiki/images/spriting/examples/shading.png">
+<img src="/wiki/images/modding/spriting/examples/shading.png">
 
 <details><summary>Block Spriting</summary>
 <p>
